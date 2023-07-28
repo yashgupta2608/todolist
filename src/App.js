@@ -14,7 +14,7 @@ const App =()=>{
   return(
     <TodoContext.Provider value = {{todos,dispatch}}>
       <Container fluid>
-        <h1>Todo App  with context API</h1>
+        <h1>Todo App  with context </h1>
         <Todos />
         <TodoForm />
       </Container>
