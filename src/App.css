@@ -10,6 +10,16 @@ body {
   position: relative;
   background-color: rgb(104, 104, 104);
 }
+button{
+  margin-left: 200px;
+
+}
+input{
+  margin-left: 100px;
+  width: 290px;
+}
+
+
 h1 {
   text-align: center;
   margin-top: 20px;
@@ -24,11 +34,12 @@ form {
   border: 2px solid rgb(66, 66, 180);
   color: #000;
   box-shadow: 0 2px 4px 4px rgba(0, 0, 0, 0.5);
+  background-color: aliceblue;
 }
 
 .items {
   position: fixed;
-  top: 50px;
+  top: 210px;
   right: 30%;
   left: 30%;
   border-radius: 8px;
